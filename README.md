@@ -10,3 +10,8 @@ Paso 2: Descargar las ROMs de los juegos por Torrent (usar cliente qBitorrent), 
 "Set: MAME 0.254 ROMs (split)"
 11.966 ROMs / 75.75Gb
 https://pleasuredome.github.io/pleasuredome/mame/index.html
+
+Paso 3 (Opcional): Las ROMs anteriores contienen la mayoría de juegos, pero hay una pequeña parte de los juegos (un 4%) que para jugarlos se necesitan los ficheros CHD, que ocupan cerca de 1Tb. Estos son principalmente juegos modernos a partir del año 2000, en 3D, con cineméticas en Laserdisc.... una minoría, pero ocupan mucho espacio:
+"Set: MAME 0.254 CHDs (merged)"
+555 CHDs / 933Gb
+https://pleasuredome.github.io/pleasuredome/mame/index.html
