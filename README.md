@@ -14,3 +14,13 @@ https://pleasuredome.github.io/pleasuredome/mame/index.html
 "Set: MAME 0.254 CHDs (merged)"  
 555 CHDs / 933Gb  
 https://pleasuredome.github.io/pleasuredome/mame/index.html  
+
+**Paso 4 (Opcional):** Los EXTRAs contienen multitud de elementos de los juegos, como capturas de pantalla, carátulas, iconos, posters... Hay que colocar cada uno en la carpeta que corresponda:  
+"Set: MAME 0.254 EXTRAs"  
+"Set: MAME 0.254 Multimedia"  
+
+**Paso 5:** Arrancamos arcade64.exe, menú Options / Directory, y en el desplegable de "ROMs" seleccionamos la carpeta donde hemos descargado las ROMs y la añadimos. En el mismo sitio de ROMs, añadimos tambien la ruta de los CHD, si opcionlamente decidimos bajarlos tambien.
+Esperamos a que la barra verde de abajo termine de buscar los juegos, y hacemos click en el menú "Tools" y en "Audit all sets".  El resultado debería ser casi perfecto, aunque no es raro falle alguna que otra rom, y haya que leer el error para solucionarlo.
+Hacemos click en el 5º botón de arriba etiquetado "Toggle grouped view".  
+
+**Paso 6:**  Ya podemos hacer click en cualquier juego de la lista y jugarlo.
