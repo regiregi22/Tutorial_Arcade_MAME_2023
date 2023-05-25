@@ -1,6 +1,5 @@
 # Tutorial_Arcade_MAME_2023
-Tutorial para descargar y configurar MAME para jugar a juegos Arcade.
-
+Tutorial para descargar y configurar MAME para emular juegos Arcade.
 
 **Paso 1:** Nos descargamos ARCADE64 y lo descomprimimos donde lo queramos. Es importante tomar nota de la versión (por ejemplo, 0.254 a fecha de este tutorial). Es el programa que usaremos para lanzar los juegos con MAME. Este programa es de uso libre y legal:  
 "ARCADE64 0.254.0 (64-bit, GUI)"  
