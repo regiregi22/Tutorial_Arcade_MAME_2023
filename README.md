@@ -19,12 +19,15 @@ https://pleasuredome.github.io/pleasuredome/mame/index.html
 "Set: MAME 0.254 EXTRAs"  
 "Set: MAME 0.254 Multimedia"  
 
-**Paso 5:** Arrancamos arcade64.exe, menú Options / Directory, y en el desplegable de "ROMs" seleccionamos la carpeta donde hemos descargado las ROMs y la añadimos. En el mismo sitio de ROMs, añadimos tambien la ruta de los CHD, si opcionlamente decidimos bajarlos tambien.
-Esperamos a que la barra verde de abajo termine de buscar los juegos, y hacemos click en el menú "Tools" y en "Audit all sets".  El resultado debería ser casi perfecto, aunque no es raro falle alguna que otra rom, y haya que leer el error para solucionarlo.
+**Paso 5:** Arrancamos arcade64.exe, menú Options / Directory, y en el desplegable de "ROMs" seleccionamos la carpeta donde hemos descargado las ROMs y la añadimos. En el mismo sitio de ROMs, añadimos tambien la ruta de los CHD, si opcionlamente decidimos bajarlos tambien.  
+Esperamos a que la barra verde de abajo termine de buscar los juegos, y hacemos click en el menú "Tools" y en "Audit all sets".  El resultado debería ser casi perfecto, aunque no es raro falle alguna que otra rom, y haya que leer el error para solucionarlo.  
 Hacemos click en el 5º botón de arriba etiquetado "Toggle grouped view".  
 
-**Paso 6:**  Ya podemos hacer click en cualquier juego de la lista y ejecutarlo. Con la tecla Tabulador accedemos desde el juego al menú de configuración de teclas desde "Input Settings". Por defecto son:
-5 Echar crédito
-1 Start
-Cruceta para moverse
-Ctrl, Alt, Espacio, Mayus para acciones
+**Paso 6:**  Ya podemos hacer click en cualquier juego de la lista y ejecutarlo. Con la tecla Tabulador accedemos desde el juego al menú de configuración de teclas desde "Input Settings". Por defecto son:  
+5 Echar crédito  
+1 Start  
+Cruceta para moverse  
+Ctrl, Alt, Espacio, Mayus para acciones  
+
+Podemos usar como ejemplo este perfil para jugar con hasta 2 mandos de XBOX:
+https://github.com/regiregi22/Tutorial_Arcade_MAME_2023/blob/main/Perfil_2_mandos_XBOX
